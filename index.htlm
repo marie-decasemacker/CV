@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV - Médiatheia</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #1f1f1f;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #5a3d9c;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h2 {
+      color: #5a3d9c;
+      border-bottom: 2px solid #5a3d9c;
+      padding-bottom: 0.3rem;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #2b7bba;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Médiatheia</h1>
+    <p>Exploratrice de communication stratégique & personal branding</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>À propos</h2>
+      <p>Forte de 10 ans d'expérience dans le secteur public, j'allie rigueur juridique et stratégie de communication pour accompagner les transformations internes et révéler les talents. Spécialisée en storytelling, en visibilité numérique et en communication institutionnelle, je m’engage à faire émerger l’essence de chaque projet ou personne.</p>
+    </section>
+
+    <section>
+      <h2>Expériences</h2>
+      <ul>
+        <li><strong>Chargée de mission Achat public</strong>, Département du Nord (2021–2024)</li>
+        <li><strong>Gestionnaire marchés publics</strong>, Mairie (2016–2021)</li>
+        <li><strong>Acheteur</strong>, CNRS (2016)</li>
+        <li><strong>Juriste marchés publics</strong>, divers établissements (2013–2016)</li>
+        <li><strong>Veilleur-analyste</strong>, Ambassade de France en Thaïlande (2012)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Compétences</h2>
+      <ul>
+        <li>Communication interne & stratégique</li>
+        <li>Storytelling, personal branding, rédaction web</li>
+        <li>Rédaction de cahiers des charges & analyse des besoins</li>
+        <li>Veille stratégique & analyse de risques</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Compétences techniques</h2>
+      <ul>
+        <li>Canva, Notion, Trello, LinkedIn, ChatGPT</li>
+        <li>Création de contenus et gestion de visibilité en ligne</li>
+        <li>Rédaction de posts LinkedIn, storytelling, scripts vidéos</li>
+        <li>Initiation à la création de site vitrine via GitHub Pages</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Objectifs</h2>
+      <p>Mettre mes compétences au service de projets publics à impact positif, en communication interne, conduite du changement ou valorisation des métiers. En parallèle, je propose mes services en personal branding et stratégie éditoriale aux personnes en transition ou en quête de visibilité.</p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>📬 <a href="https://www.linkedin.com/in/ton-lien">Mon profil LinkedIn</a><br>
+         📧 Email sur demande</p>
+    </section>
+  </div>
+</body>
+</html>
